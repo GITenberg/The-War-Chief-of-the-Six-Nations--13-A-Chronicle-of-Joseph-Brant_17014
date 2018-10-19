@@ -40,5 +40,6 @@ series_note: 'Chronicles of Canada series: Volume 16'
 subjects:
 - !lcsh 'Brant, Joseph, 1742-1807'
 - !lcc 'E011'
+- GITenberg
 title: 'The War Chief of the Six Nations: A Chronicle of Joseph Brant'
 url: http://www.gutenberg.org/ebooks/17014
